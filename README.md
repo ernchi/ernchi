@@ -7,9 +7,9 @@ I love building and learning new things. Feel free to check out my GitHub page t
 Currently seeking full-time entry level software engineering roles in the US. You can view my resume
 [here](https://drive.google.com/file/d/1RlhgD7iLGcqiEaYuIl23Z4V2RN7wNpAL/view?usp=sharing).
 
-- 🔭 Current Project: Web app that aims to provide non-tech savvy people helpful online resources for their everyday needs.
-- 🌱 Programming languages/ Frameworks used (in current project): JavaScript, React, HTML, CSS
-- 📫 How to reach me: Email me at khoo.ernchi@gmail.com or message me on LinkedIn https://www.linkedin.com/in/ernchi/
+- 🔭 I'm currently working on a web app that aims to provide non-tech savvy people helpful online resources for their everyday needs
+- 🌱 The programming languages/ frameworks used in this project are JavaScript, React, HTML, CSS
+- 📫 You can reach me at khoo.ernchi@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/ernchi/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My current project was inspired by my mum who has a hard time getting used to the internet and modern technology in general
 
