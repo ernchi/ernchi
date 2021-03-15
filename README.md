@@ -4,11 +4,11 @@ My name is Ern Chi Khoo. I am a recent Computer Science and Engineering graduate
 I love building and learning new things. Feel free to check out my GitHub page to see all the stuff I've worked on.
 Currently seeking full-time entry level software engineering roles in the US. 
 
-🔭 Current Project: Web app that aims to provide non-tech savvy people helpful online resources for their everyday needs.
-🌱 Programming languages/ Frameworks used (in current project): JavaScript, React, HTML, CSS
-📫 How to reach me: Reach out to me through my email khoo.ernchi@gmail.com or on LinkedIn https://www.linkedin.com/in/ernchi/
-😄 Pronouns: she/her
-⚡ Fun fact: My current project was inspired by my mum who has a hard time getting used to the internet and modern technology in general
+- 🔭 Current Project: Web app that aims to provide non-tech savvy people helpful online resources for their everyday needs.
+- 🌱 Programming languages/ Frameworks used (in current project): JavaScript, React, HTML, CSS
+- 📫 How to reach me: Reach out to me through my email khoo.ernchi@gmail.com or on LinkedIn https://www.linkedin.com/in/ernchi/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: My current project was inspired by my mum who has a hard time getting used to the internet and modern technology in general
 
 <!--
 **ernchi/ernchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
