@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Ern Chi Khoo. I am a recent Computer Science and Engineering graduate from the Ohio State University. 
+I'm Ern Chi! I am a recent Computer Science and Engineering graduate from the Ohio State University. 
 
 I love building and learning new things. Feel free to check out my GitHub page to see all the stuff I've worked on!
 
-Currently seeking full-time entry level software engineering roles in the US. 
+Currently seeking full-time entry level software engineering roles in the US. You can view my resume [here] (https://drive.google.com/file/d/1RlhgD7iLGcqiEaYuIl23Z4V2RN7wNpAL/view?usp=sharing).
 
 - 🔭 Current Project: Web app that aims to provide non-tech savvy people helpful online resources for their everyday needs.
 - 🌱 Programming languages/ Frameworks used (in current project): JavaScript, React, HTML, CSS
