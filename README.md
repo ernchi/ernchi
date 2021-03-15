@@ -8,7 +8,7 @@ Currently seeking full-time entry level software engineering roles in the US.
 
 - 🔭 Current Project: Web app that aims to provide non-tech savvy people helpful online resources for their everyday needs.
 - 🌱 Programming languages/ Frameworks used (in current project): JavaScript, React, HTML, CSS
-- 📫 How to reach me: My email khoo.ernchi@gmail.com or on LinkedIn https://www.linkedin.com/in/ernchi/
+- 📫 How to reach me: Email me at khoo.ernchi@gmail.com or message me on LinkedIn https://www.linkedin.com/in/ernchi/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: My current project was inspired by my mum who has a hard time getting used to the internet and modern technology in general
 
