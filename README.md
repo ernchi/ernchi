@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-I'm Ern Chi! I am a recent Computer Science and Engineering graduate from the Ohio State University. 
+I'm Ern Chi! I'm a Software Developer at Miles Techonologies. 
 
 Feel free to check out my GitHub page to see all the stuff I've worked on!
-
-Currently seeking full-time entry level software engineering roles in the US. You can view my resume
-[here](https://drive.google.com/file/d/1RlhgD7iLGcqiEaYuIl23Z4V2RN7wNpAL/view?usp=sharing).
 
 - 📫 You can reach me at khoo.ernchi@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/ernchi/)
 - 😄 Pronouns: she/her
@@ -17,6 +14,9 @@ Currently seeking full-time entry level software engineering roles in the US. Yo
 - 🔭 I'm currently working on a web app that aims to provide non-tech savvy people helpful online resources for their everyday needs
 - 🌱 The programming languages/ frameworks used in this project are JavaScript, React, HTML, CSS
 - ⚡ Fun fact: My current project was inspired by my mum who has a hard time getting used to the internet and modern technology in general
+
+Currently seeking full-time entry level software engineering roles in the US. You can view my resume
+[here](https://drive.google.com/file/d/1RlhgD7iLGcqiEaYuIl23Z4V2RN7wNpAL/view?usp=sharing).
 
 Here are some ideas to get you started:
 
