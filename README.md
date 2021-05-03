@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ern Chi! I'm a Software Developer at Miles Techonologies. 
+I'm Ern Chi! I'm a Software Developer. 
 
 Feel free to check out my GitHub page to see all the stuff I've worked on!
 
