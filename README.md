@@ -4,9 +4,6 @@ I'm Ern Chi! I'm a Software Developer.
 
 Feel free to check out my GitHub page to see all the stuff I've worked on!
 
-- 📫 You can reach me at khoo.ernchi@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/ernchi/)
-- 😄 Pronouns: she/her
-
 
 <!--
 **ernchi/ernchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
